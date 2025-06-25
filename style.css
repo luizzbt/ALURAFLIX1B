@@ -1,19 +1,19 @@
-body{
+body {
     background-color: beige;
     color: blueviolet;
     font-family: "Chakra Petch", sans-serif;
 }
 
-h1{
+h1 {
     color: rgb(72, 14, 127); 
 }
 
-p{
+p {
     color: rgb(1, 0, 2);
     font-size: 25px;
 }
 
-header{
+header {
   border-bottom: solid 4px rgb(12, 209, 28);  
   margin: 0px;
   padding: 25px;
