@@ -3,3 +3,12 @@ body{
     color: blueviolet;
     font-family: "Chakra Petch", sans-serif;
 }
+
+h1{
+    color: rgb(72, 14, 127); 
+}
+
+p{
+    color: rgb(1, 0, 2);
+    font-size: 25px;
+}
